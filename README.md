@@ -22,6 +22,11 @@ Me chamo Gustavo Guimarães Soares, tenho 18 anos e sou natural do Distrito Fede
   </a>
 </div>
 
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/gustavo-guimar%C3%A3es-ab80343a5/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</div>
 <br/>
 <br/>
 
