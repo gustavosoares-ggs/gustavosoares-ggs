@@ -1,16 +1,20 @@
-## Hi there 👋
+# 👩🏻‍💻 Gustavo Soares
 
-<!--
-**gustavosoares-ggs/gustavosoares-ggs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Me chamo Gustavo Guimarães Soares, tenho 18 anos e sou natural do Distrito Federal Brasília. Concluí o ensino médio no CED 07, com o curso técnico em informática. Atualmente, estou cursando Engenharia de Software no UINICEUB. Sou apaixonado por tecnologia.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+---
+
+### 🤖 Linguagens e Tecnologias
+
+<div align="center">
+
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,java,mysql,html,css,git,github"/>
+  </a>
+</div>
+
+<br/>
+<br/>
+
