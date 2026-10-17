@@ -5,6 +5,13 @@ Me chamo Gustavo Guimarães Soares, tenho 18 anos e sou natural do Distrito Fede
 
 
 ---
+## 👨‍💻 Sobre mim
+
+- 🎓 Estudante de Engenharia de Software.
+- 💻 Atualmente estudando Java e lógica de programação.
+- 🐍 Também tenho interesse em Python e desenvolvimento web.
+- 🚀 Buscando desenvolver projetos práticos e construir meu portfólio.
+- 🎯 Meu objetivo é me tornar um desenvolvedor de software.
 
 ### 🤖 Linguagens e Tecnologias
 
